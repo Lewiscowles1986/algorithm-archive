@@ -1,7 +1,7 @@
 # The Split-Operator Method
 The Split-Operator Method (also called the Split-Step Method) can be best understood, as a problem-solving approach or meta-algorithm rather than a standalone algorithm, which solves a single problem.
 
-It describes a way of decomposing complex problems into smaller, more manageable subproblems, which can then be solved iteratively or in parallel.
+It describes a way of decomposing a physical equation of energy into different subspaces where it is easier to find solutions.
 
 This was the primary method I used to solve the Schr&ouml;dinger equation during my PhD.
 It is one of the simplest and fastest methods for this purpose and is widely used throughout modern quantum research in the area, in particular when dealing with the Non-linear Schr&ouml;dinger Equation (NLSE):
